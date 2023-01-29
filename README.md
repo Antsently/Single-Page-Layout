@@ -1,2 +1,2 @@
-# -Single-Page-Layout
+# 🔁📃Single-Page-Layout
 One-page scroll template for a website
